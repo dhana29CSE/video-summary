@@ -2,5 +2,5 @@ streamlit
 openai-whisper
 transformers
 sentence-transformers
-torch
 ffmpeg-python
+
